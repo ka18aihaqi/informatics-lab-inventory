@@ -21,13 +21,14 @@
 
 ## About Inventory Website with QR Code Integration
 
-This project is a **web-based inventory management system** developed as a final project at Telkom University. It leverages **Laravel, MySQL, JavaScript, and QR Code integration** to simplify inventory tracking and asset management.
+This project is a **web-based inventory management system** developed as my final project at Telkom University. It uses **Laravel, MySQL, JavaScript, and QR Code integration** to streamline asset management and tracking.
 
 **Key Features:**
-- Asset input, allocation, and tracking
-- QR Code integration for seamless item management
-- User-friendly interfaces and secure data handling
-- Fully tested backend and frontend implementation
+- **Login system** for secure user access.
+- **Input asset data**, including detailed information and categorization.
+- **Asset allocation** and assignment to specific locations.
+- **Transfer assets** between different locations to maintain real-time inventory status.
+- **QR Code identification** to easily track and identify specific tables or locations within the system.
 
 **Live Demo:** [https://informaticslabstelu.com](https://informaticslabstelu.com)
 
@@ -36,11 +37,28 @@ This project is a **web-based inventory management system** developed as a final
 - Laravel
 - MySQL
 - JavaScript
-- QR Code Integration (for inventory tracking)
+- QR Code Integration
+
+## 📸 Screenshots
+
+### 🧾 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📝 Form Input
+![Form Input](screenshots/form-input.png)
+
+### 📄 Asset Allocation
+![Export PDF](screenshots/asset-alocation.png)
+
+### 📄 Computer Spescfications
+![Export PDF](screenshots/computer-specifications.png)
+
+### 📄 Form Transfer
+![Export PDF](screenshots/form-transfer.png)
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps:
+To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
