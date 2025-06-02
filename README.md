@@ -4,11 +4,11 @@
   </a>
 </p>
 
-## About Inventory Website with QR Code Integration
+## 📄 About Inventory Website with QR Code Integration
 
 This project is a **web-based inventory management system** developed as my final project at Telkom University. It uses **Laravel, MySQL, JavaScript, and QR Code integration** to streamline asset management and tracking.
 
-**Key Features:**
+**🚀 Key Features:**
 - **Login system** for secure user access.
 - **Input asset data**, including detailed information and categorization.
 - **Asset allocation** and assignment to specific locations.
@@ -17,7 +17,7 @@ This project is a **web-based inventory management system** developed as my fina
 
 **Live Demo:** [https://informaticslabstelu.com](https://informaticslabstelu.com)
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 - Laravel
 - MySQL
