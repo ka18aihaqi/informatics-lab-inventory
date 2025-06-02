@@ -33,7 +33,7 @@ This project is a **web-based inventory management system** developed as my fina
 ![Form Input](screenshots/form-input.png)
 
 ### 📄 Asset Allocation
-![Export PDF](screenshots/asset-alocation.png)
+![Export PDF](screenshots/asset-allocation.png)
 
 ### 📄 Computer Spescfications
 ![Export PDF](screenshots/computer-specifications.png)
