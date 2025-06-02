@@ -4,21 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ka18aihaqi/inventory-qr-code/actions">
-    <img src="https://github.com/ka18aihaqi/inventory-qr-code/workflows/tests/badge.svg" alt="Build Status">
-  </a>
-  <a href="https://packagist.org/packages/ka18aihaqi/inventory-qr-code">
-    <img src="https://img.shields.io/packagist/dt/ka18aihaqi/inventory-qr-code" alt="Total Downloads">
-  </a>
-  <a href="https://packagist.org/packages/ka18aihaqi/inventory-qr-code">
-    <img src="https://img.shields.io/packagist/v/ka18aihaqi/inventory-qr-code" alt="Latest Stable Version">
-  </a>
-  <a href="https://packagist.org/packages/ka18aihaqi/inventory-qr-code">
-    <img src="https://img.shields.io/packagist/l/ka18aihaqi/inventory-qr-code" alt="License">
-  </a>
-</p>
-
 ## About Inventory Website with QR Code Integration
 
 This project is a **web-based inventory management system** developed as my final project at Telkom University. It uses **Laravel, MySQL, JavaScript, and QR Code integration** to streamline asset management and tracking.
@@ -62,11 +47,10 @@ To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ka18aihaqi/inventory-qr-code.git
+git clone https://github.com/ka18aihaqi/informatics-lab-inventory.git
 
 # Install dependencies
 composer install
-npm install && npm run dev
 
 # Setup environment variables
 cp .env.example .env
